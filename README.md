@@ -1,5 +1,3 @@
-# fisa-bank-account-service
-
 # Bank Account Service (은행 계좌 서비스)
 
 settlement-service로부터 정산 요청을 받아 은행별 계좌에 입금/차감을 수행하는 서비스입니다.
